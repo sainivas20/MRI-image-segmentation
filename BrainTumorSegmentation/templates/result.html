@@ -1,0 +1,33 @@
+{% load  static%}
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<title>MAJOR PROJECT</title>
+<link rel="stylesheet" type="text/css" href="{% static 'style/style.css'%}" title="style" />
+</head>
+
+<body>
+	<div id="main">
+		<div id="header">
+			<div id="logo">
+				<div id="logo_text">
+					<!-- class="logo_colour", allows you to change the colour of the text -->
+					<h3>
+						<a href="#"><font color="white">Brain tumor Image Segmentation</font></a>
+					</h3>
+					<br/><br/>
+				</div>
+			</div>
+		</div>
+		<div id="content_header"></div>
+		<div id="site_content">
+			<div id="content">
+
+               <img src="{% static ''%}{{result}}" height="500" width="1000">
+				
+			</div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,2 @@
+uploadpath="C:\\Users\\Sai Nivas\\Desktop\\major1\\Brain Image Segmentation\\BrainTumorSegmentation\\pictures\\"
+modelpath="C:\\Users\\Sai Nivas\\Desktop\\major1\\Brain Image Segmentation\\BrainTumorSegmentation\\model\\"
